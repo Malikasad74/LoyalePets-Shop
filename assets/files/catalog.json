@@ -1,0 +1,137 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "Golden Retriever",
+      "desc": "Friendly and intelligent, great for families.",
+      "price": 2000,
+      "image": "https://images.ctfassets.net/m5ehn3s5t7ec/KtxCRW7y0LXNYcn6BHPPD/065b05bda2e516ea6a5887ce9856d1db/Golden_Retriever__Price.webp"
+    },
+    {
+      "id": 2,
+      "name": "Labrador Retriever",
+      "desc": "Loyal, outgoing, and good with kids.",
+      "price": 2000,
+      "image": "https://www.hepper.com/wp-content/uploads/2021/11/labrador_Shutterstock_Ivanova-N.jpg"
+    },
+    {
+      "id": 3,
+      "name": "German Shepherd",
+      "desc": "Courageous, confident, and smart working dog.",
+      "price": 3500,
+      "image": "https://www.hepper.com/wp-content/uploads/2021/11/German-Shepherd-standing-on-the-grass.jpg"
+    },
+    {
+      "id": 4,
+      "name": "Bulldog",
+      "desc": "Calm, courageous, and affectionate companion.",
+      "price": 1500,
+      "image": "https://images.ctfassets.net/m5ehn3s5t7ec/3LlwQXcjlcCtNFqg7rswmx/0f268311a5bf518cc72fa1b5a3f957b1/Bulldog_Price.jpeg"
+    },
+    {
+      "id": 5,
+      "name": "Poodle",
+      "desc": "Highly intelligent and hypoallergenic coat.",
+      "price": 1800,
+      "image": "https://www.dogster.com/wp-content/uploads/2024/03/standard-poodle-1549558_1280-1.jpg"
+    },
+    {
+      "id": 6,
+      "name": "Persian Cat",
+      "desc": "Quiet, gentle, and luxurious long fur.",
+      "price": 5000,
+      "image": "https://tiimg.tistatic.com/fp/1/007/535/light-brown-persian-kitty-cat-with-brown-eyes-female-059.jpg"
+    },
+    {
+      "id": 7,
+      "name": "Maine Coon",
+      "desc": "Large, friendly, and affectionate breed.",
+      "price": 1000,
+      "image": "https://file.aiquickdraw.com/imgcompressed/img/compressed_0479ccbef37378805abedbdf329b76a0.webp"
+    },
+    {
+      "id": 8,
+      "name": "Siamese Cat",
+      "desc": "Vocal, social, and sleek short-haired coat.",
+      "price": 1300,
+      "image": "https://www.catster.com/wp-content/uploads/2023/11/siamese-cat-sitting-on-the-floor-indoor_BearFotos_Shutterstock.jpg"
+    },
+    {
+      "id": 9,
+      "name": "Bengal Cat",
+      "desc": "Energetic, playful, and leopard-like spots.",
+      "price": 3000,
+      "image": "https://www.catster.com/wp-content/uploads/2023/11/Bengal-cat-like-a-leopard-sneaks-Indoor_Alexander_Evgenyevich_Shutterstock.jpg"
+    },
+    {
+      "id": 10,
+      "name": "Holland Lop Rabbit",
+      "desc": "Small, friendly, and floppy-eared rabbit.",
+      "price": 200,
+      "image": "https://www.hepper.com/wp-content/uploads/2023/05/a-cute-mini-lop-rabbit-on-wooden-platform_Izzy-Knight_Shutterstock.jpg"
+    },
+    {
+      "id": 11,
+      "name": "Netherland Dwarf Rabbit",
+      "desc": "Tiny and energetic with a compact body.",
+      "price": 100,
+      "image": "https://images.squarespace-cdn.com/content/v1/5f11acca056d9b31bdc66141/1598022513541-D1RE9SV8BLR7S1RXGW7Z/greybabybunn.jpg"
+    },
+    {
+      "id": 12,
+      "name": "Mini Rex Rabbit",
+      "desc": "Soft, velvety fur and calm temperament.",
+      "price": 250,
+      "image": "https://www.hepper.com/wp-content/uploads/2023/05/mini-rex-rabbit-on-a-carpet_Kassia-Marie-Ott_Shutterstock.jpg"
+    },
+    {
+      "id": 13,
+      "name": "Midas Cichlid",
+      "desc": "Midas cichlid is native to Central America.",
+      "price": 250,
+      "image": "https://a-z-animals.com/media/2021/11/shutterstock_1675629973-1024x535.jpg"
+    },
+    {
+      "id": 14,
+      "name": "Goldfish",
+      "desc": "Hardy and ideal for beginners.",
+      "price": 30,
+      "image": "https://5.imimg.com/data5/SELLER/Default/2024/8/443851024/UR/ZA/PO/21034232/gold-fish.jpg"
+    },
+    {
+      "id": 15,
+      "name": "Guppy",
+      "desc": "Brightly colored and peaceful fish.",
+      "price": 30,
+      "image": "https://st2.depositphotos.com/2524151/5620/i/950/depositphotos_56200901-stock-photo-guppy-fish-isolated-on-white.jpg"
+    },
+    {
+      "id": 16,
+      "name": "Parrot",
+      "desc": "Intelligent, talkative, and friendly bird.",
+      "price": 1000,
+      "image": "https://as2.ftcdn.net/v2/jpg/01/09/39/73/1000_F_109397389_huBYRiES0sAHsYBHuo7XU9aRvD0I73if.jpg"
+    },
+    {
+      "id": 17,
+      "name": "Canary",
+      "desc": "Small, cheerful, and beautiful singing bird.",
+      "price": 150,
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Serinus_canaria_-Parque_Rural_del_Nublo%2C_Gran_Canaria%2C_Spain_-male-8a.jpg/800px-Serinus_canaria_-Parque_Rural_del_Nublo%2C_Gran_Canaria%2C_Spain_-male-8a.jpg"
+    },
+    {
+      "id": 18,
+      "name": "Budgerigar",
+      "desc": "Playful, social, and easy to train.",
+      "price": 150,
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Budgerigar-male-strzelecki-qld.jpg/1200px-Budgerigar-male-strzelecki-qld.jpg"
+    },
+    {
+      "id": 19,
+      "name": "Cockatiel",
+      "desc": "Loving, whistling, and friendly companion.",
+      "price": 100,
+      "image": "https://static.vecteezy.com/system/resources/thumbnails/053/737/365/small_2x/cockatiel-perched-on-a-wooden-branch-with-a-green-bokeh-background-photo.jpg"
+    }
+  ]
+}
