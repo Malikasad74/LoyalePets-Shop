@@ -1,3 +1,4 @@
+import 'package:LoyalePets/Login_Signup/forgot.dart';
 import 'package:flutter/material.dart';
 import 'package:LoyalePets/Login_Signup/Widget/button.dart';
 import 'package:LoyalePets/Login_Signup/Widget/snackbar.dart';
@@ -69,6 +70,29 @@ class _LoginScreenState extends State<LoginScreen> {
                 isPass: true,
                 icon: Icons.lock,
                 inputType: InputType.password,
+              ),
+              Align(
+                alignment: Alignment.centerRight,
+                child: Padding(
+                  padding: const EdgeInsets.only(right: 30),
+                  child: TextButton(
+                    onPressed: () {
+                      Navigator.push(
+                        context,
+                        MaterialPageRoute(
+                          builder: (context) => const ForgotPasswordScreen(),
+                        ),
+                      );
+                    },
+                    child: const Text(
+                      "Forgot Password?",
+                      style: TextStyle(
+                        color: Colors.blue,
+                        fontWeight: FontWeight.bold,
+                      ),
+                    ),
+                  ),
+                ),
               ),
               SizedBox(height: 20),
               MyButton(
