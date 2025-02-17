@@ -12,6 +12,14 @@ Welcome to LoyalePets Shop, the ultimate app for pet lovers! From nutritious foo
 
 ## 📸 App Previews
 
+<img src="assets/icons/cart.jpg" alt="Cart Image" />
+<img src="assets/icons/forget.jpg" alt="Forget Image" />
+<img src="assets/icons/home.jpg" alt="Home Image" />
+<img src="assets/icons/login.jpg" alt="Login Image" />
+<img src="assets/icons/onboard.jpg" alt="Onboard Image" />
+<img src="assets/icons/signup.jpg" alt="Signup Image" />
+<img src="assets/icons/splash.jpg" alt="Splash Image" />
+
 
 ## 🚀 Features
 
